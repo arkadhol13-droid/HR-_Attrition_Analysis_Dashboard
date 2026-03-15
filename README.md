@@ -33,3 +33,5 @@ The dashboard provides insights into:
 - Age Group Analysis
 - Job Role Analysis
 - Interactive Filters (Slicers)
+
+## Project link : https://github.com/arkadhol13-droid/HR-_Attrition_Analysis_Dashboard/blob/main/HR_Attrition_Dashboard/Visualization/HR_Attrition_Dashboard.png
